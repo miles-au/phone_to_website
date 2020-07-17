@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/phone_to_website/static/css/main.7e89912c.chunk.css",
+    "main.js": "/phone_to_website/static/js/main.58d7c3c1.chunk.js",
+    "main.js.map": "/phone_to_website/static/js/main.58d7c3c1.chunk.js.map",
+    "runtime-main.js": "/phone_to_website/static/js/runtime-main.f8a035e9.js",
+    "runtime-main.js.map": "/phone_to_website/static/js/runtime-main.f8a035e9.js.map",
+    "static/js/2.1838088c.chunk.js": "/phone_to_website/static/js/2.1838088c.chunk.js",
+    "static/js/2.1838088c.chunk.js.map": "/phone_to_website/static/js/2.1838088c.chunk.js.map",
+    "index.html": "/phone_to_website/index.html",
+    "precache-manifest.010439909f341a6af389cc7feafe034d.js": "/phone_to_website/precache-manifest.010439909f341a6af389cc7feafe034d.js",
+    "service-worker.js": "/phone_to_website/service-worker.js",
+    "static/css/main.7e89912c.chunk.css.map": "/phone_to_website/static/css/main.7e89912c.chunk.css.map",
+    "static/js/2.1838088c.chunk.js.LICENSE.txt": "/phone_to_website/static/js/2.1838088c.chunk.js.LICENSE.txt",
+    "static/media/google_badge.png": "/phone_to_website/static/media/google_badge.6065204a.png",
+    "static/media/logo-transparent.png": "/phone_to_website/static/media/logo-transparent.66a420f5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8a035e9.js",
+    "static/js/2.1838088c.chunk.js",
+    "static/css/main.7e89912c.chunk.css",
+    "static/js/main.58d7c3c1.chunk.js"
+  ]
+}
